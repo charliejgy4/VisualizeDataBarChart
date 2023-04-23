@@ -1,1 +1,1 @@
-VisualizeDataBarChart
+Visualize Data Bar Chart
